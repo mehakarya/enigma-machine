@@ -16,7 +16,7 @@ Next, you will be prompted to enter your message. Please note the following -
 * Only alphabetical characters will be read - any punctuation, spaces or special characters will be ignored.
 
 ## Disclaimers
-For the purposes of this project, users can only select the starting positions of the rotors. The rotor order is 'I, II, III', the ring settings are hard-coded as '01-A' and there is no plugboard.
+For the purposes of this project, users can only select the starting positions of the rotors. The rotor order is 'I, II, III', the reflector in use is Reflector B, the ring settings are hard-coded as '01-A' and there is no plugboard.
 
 ## Acknowledgements
 I want to acknowledge the following resources -
@@ -26,5 +26,5 @@ I want to acknowledge the following resources -
 * https://www.101computing.net/enigma/enigma-M3.html
 
 ## What's Next
-As mentioned earlier, users cannot configure the rotors, the ring settings or the plugboard. This will be coming soon!<br>
+As mentioned earlier, users cannot configure the rotors, the reflector, the ring settings or the plugboard. This will be coming soon!<br>
 I want to continue working on this project to add these features and eventually create a front-end user interface for the program.
