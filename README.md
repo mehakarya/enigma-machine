@@ -8,7 +8,7 @@ To use the program, simply run it using `python enigma.py`.
 
 ### Configuration
 First, you will be prompted to enter your configuration settings i.e. the starting positions for the rotors. From left to right, the rotors in use are rotors I, II and III from the Enigma I.<br><br>
-Each rotor can be configured to start on a different letter (A - Z). To start on A, B, C in that order (left to right), enter `A B C`.
+Each rotor can be configured to start on a different letter (A - Z). To start on A, B, C and in that order (left to right), enter `ABC`.
 
 ### Encryption/ Decryption
 Next, you will be prompted to enter your message. Please note the following -
