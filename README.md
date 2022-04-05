@@ -3,8 +3,12 @@
 ## Introduction
 As part of COMP6841 (Extended Security Engineering and Cyber Security), students complete a 30-hour project on anything they think is awesome, yet relevant. For my project, I wanted to write a program that can encrypt and decrypt messages using the Enigma.
 
+I wrote my program in Python, before I transpiled it into C++ to challenge myself with a language I hadn't used before (it was indeed challenging).
+
 ## Usage
-To use the program, simply run it using `python enigma.py`.
+To use the Python program, simply run it using `python enigma.py`.
+
+To use the C++ program, first compile it using `gcc enigma.cpp -o enigma` before running the executable using `./enigma.exe`.
 
 ### Configuration
 First, you will be prompted to enter your configuration settings i.e. the starting positions for the rotors. From left to right, the rotors in use are rotors I, II and III from the Enigma I.<br><br>
