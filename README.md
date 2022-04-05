@@ -17,7 +17,8 @@ Each rotor can be configured to start on a different letter (A - Z). To start on
 ### Encryption/ Decryption
 Next, you will be prompted to enter your message. Please note the following -
 * The Enigma Machine is a symmetric cipher. Whether you are encrypting or decrypting a message doesn't matter, as long as you have specified the correct configuration settings.
-* Only alphabetical characters and spaces will be read - any punctuation or special characters will be ignored.
+* Only alphabetical characters will be read - any punctuation or special characters will be ignored.
+* The C++ implementation will only read the first word of your message so be sure to remove any spaces between words.
 
 ## Disclaimers
 For the purposes of this project, users can only select the starting positions of the rotors. The rotor order is 'I, II, III', the reflector in use is Reflector B, the ring settings are hard-coded as '01-A' and there is no plugboard.
