@@ -21,7 +21,7 @@ With the C++ program, the rotors in use are I, II and III (left to right) and th
 ### Encryption/ Decryption
 Next, you will be prompted to enter your message. Please note the following -
 * The Enigma Machine is a symmetric cipher. Whether you are encrypting or decrypting a message doesn't matter, as long as you have specified the correct configuration settings.
-* Only alphabetical characters will be read - any punctuation or special characters will be ignored.
+* Only alphabetical characters will be read - any spaces, punctuation or special characters will be ignored.
 * The C++ implementation will only read the first word of your message so be sure to remove any spaces between words. This is not an issue with the Python implementation.
 
 ## Disclaimers
