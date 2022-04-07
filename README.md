@@ -11,7 +11,7 @@ To use the Python program, simply run it using `python enigma.py`.
 To use the C++ program, first compile it using `gcc enigma.cpp -o enigma` before running the executable using `./enigma.exe`.
 
 ### Configuration
-With the Python program, the available rotors are I, II and III and the available reflectors are B and C. The user can configure the rotor order, the reflector and the starting positions (A - Z) for the rotors.
+With the Python program, the available rotors are I, II, III, IV and V and the available reflectors are A, B and C. The user can configure the rotor order, the reflector and the starting positions (A - Z) for the rotors.
 * To use rotors II, I and III and in that order (left to right), enter `II I III` when prompted.
 * To use reflector B, enter `B` when prompted.
 * To start on A, B, C and in that order (left to right), enter `ABC` when prompted.
