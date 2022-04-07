@@ -35,5 +35,4 @@ I want to acknowledge the following resources -
 * https://www.101computing.net/enigma/enigma-M3.html
 
 ## What's Next
-As mentioned earlier, users cannot configure the ring settings or the plugboard. This will be coming soon!<br>
-I want to continue working on this project to add these features, as well as more options for the rotors and reflectors. Eventually, I'll want to create a front-end user interface for the program too.
+Users cannot configure the ring settings or the plugboard. The configurations for these settings will be coming soon as I want to continue working on this project! I also want to expand the available options for the rotors and reflector, and eventually create a front-end user interface for the program.
